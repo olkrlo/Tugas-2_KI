@@ -2,7 +2,7 @@
 
 | NRP | Nama |
 |------|--------|
-| 5025231206 | Nadine Aulia Fanani |
+| 5025231206 | Nadine Aulia Putri Fanani |
 | 5025231301 | Nona Auliya Wijaya |
 
 ## Deskripsi
