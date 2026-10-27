@@ -1,9 +1,9 @@
 # Tugas 2 Keamanan Informasi - Key Distribution (KDC, Alice, Bob)
 
-Nama : Nona Auliya Wijaya
-NRP  : 5025231301
-Nama : Nadine Aulia Fanani
-NRP  : 5025231206
+| NRP | Nama |
+|------|--------|
+| 5025231206 | Nadine Aulia Fanani |
+| 5025231301 | Nona Auliya Wijaya |
 
 ## Deskripsi
 Program simulasi distribusi kunci dengan KDC. Ada tiga entitas (KDC, Alice, Bob)
