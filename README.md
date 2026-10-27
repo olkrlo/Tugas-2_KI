@@ -2,7 +2,6 @@
 
 Nama : Nona Auliya Wijaya
 NRP  : 5025231301
-
 Nama : Nadine Aulia Fanani
 NRP  : 5025231206
 
